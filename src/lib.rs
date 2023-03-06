@@ -1,1 +1,1 @@
-mod vectors;
+pub mod vectors;
