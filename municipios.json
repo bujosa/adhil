@@ -1,0 +1,638 @@
+﻿[
+  {
+    "name": "Nagua",
+    "province": "María Trinidad Sánchez"
+  },
+  {
+    "name": "Baitoa",
+    "province": "Santiago"
+  },
+  {
+    "name": "San Víctor",
+    "province": "Espaillat"
+  },
+  {
+    "name": "Matanzas",
+    "province": "Peravia"
+  },
+  {
+    "name": "Sabana Iglesia",
+    "province": "Santiago"
+  },
+  {
+    "name": "Guayacanes",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Puñal",
+    "province": "Santiago"
+  },
+  {
+    "name": "Villa Montellano",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Juan Santiago",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Los Alcarrizos",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Pedro Brand",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Guayabal",
+    "province": "Azua"
+  },
+  {
+    "name": "La Ciénaga",
+    "province": "Barahona"
+  },
+  {
+    "name": "Villa Hermosa",
+    "province": "La Romana"
+  },
+  {
+    "name": "Jaquimeyes",
+    "province": "Barahona"
+  },
+  {
+    "name": "Peralvillo",
+    "province": "Monte Plata"
+  },
+  {
+    "name": "San Antonio de Guerra",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Mella",
+    "province": "Independencia"
+  },
+  {
+    "name": "Hostos",
+    "province": "Duarte"
+  },
+  {
+    "name": "Los Cacaos",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Tábara Arriba",
+    "province": "Azua"
+  },
+  {
+    "name": "Cristóbal",
+    "province": "Independencia"
+  },
+  {
+    "name": "Fundación",
+    "province": "Barahona"
+  },
+  {
+    "name": "Pueblo Viejo",
+    "province": "Azua"
+  },
+  {
+    "name": "Sabana Yegua",
+    "province": "Azua"
+  },
+  {
+    "name": "Boca Chica",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "El Peñón",
+    "province": "Barahona"
+  },
+  {
+    "name": "La Mata",
+    "province": "Sánchez Ramírez"
+  },
+  {
+    "name": "El Pino",
+    "province": "Dajabón"
+  },
+  {
+    "name": "Los Ríos",
+    "province": "Bahoruco"
+  },
+  {
+    "name": "Estebanía",
+    "province": "Azua"
+  },
+  {
+    "name": "Santo Domingo Este",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Santo Domingo Norte",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Santo Domingo Oeste",
+    "province": "Santo Domingo"
+  },
+  {
+    "name": "Polo",
+    "province": "Barahona"
+  },
+  {
+    "name": "Las Charcas",
+    "province": "Azua"
+  },
+  {
+    "name": "Jamao Al Norte",
+    "province": "Espaillat"
+  },
+  {
+    "name": "Las Yayas de Viajama",
+    "province": "Azua"
+  },
+  {
+    "name": "Las Salinas",
+    "province": "Barahona"
+  },
+  {
+    "name": "Nigua",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Las Guáranas",
+    "province": "Duarte"
+  },
+  {
+    "name": "Galván",
+    "province": "Bahoruco"
+  },
+  {
+    "name": "Quisqueya",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Consuelo",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Jima Abajo",
+    "province": "La Vega"
+  },
+  {
+    "name": "Las Terrenas",
+    "province": "Samaná"
+  },
+  {
+    "name": "Partido",
+    "province": "Dajabón"
+  },
+  {
+    "name": "Sabana Grande de Palenque",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Villa Los Almácigos",
+    "province": "Santiago Rodríguez"
+  },
+  {
+    "name": "Arenoso",
+    "province": "Duarte"
+  },
+  {
+    "name": "Cayetano Germosén",
+    "province": "Espaillat"
+  },
+  {
+    "name": "Guananico",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Juan de Herrera",
+    "province": "San Juan"
+  },
+  {
+    "name": "Piedra Blanca",
+    "province": "Monseñor Nouel"
+  },
+  {
+    "name": "Villa González",
+    "province": "Santiago"
+  },
+  {
+    "name": "Sabana Larga",
+    "province": "San José de Ocoa"
+  },
+  {
+    "name": "Villa Isabela",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Rancho Arriba",
+    "province": "San José de Ocoa"
+  },
+  {
+    "name": "El Factor",
+    "province": "María Trinidad Sánchez"
+  },
+  {
+    "name": "Nizao",
+    "province": "Peravia"
+  },
+  {
+    "name": "Cambita Garabitos",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Las Matas de Santa Cruz",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Licey al Medio",
+    "province": "Santiago"
+  },
+  {
+    "name": "Maimón",
+    "province": "Monseñor Nouel"
+  },
+  {
+    "name": "Postrer Río",
+    "province": "Independencia"
+  },
+  {
+    "name": "Haina",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Los Hidalgos",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "El Valle",
+    "province": "Hato Mayor"
+  },
+  {
+    "name": "Vallejuelo ",
+    "province": "San Juan"
+  },
+  {
+    "name": "Peralta",
+    "province": "Azua"
+  },
+  {
+    "name": "Laguna Salada",
+    "province": "Valverde"
+  },
+  {
+    "name": "Yaguate",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Sosúa",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Vicente Noble",
+    "province": "Barahona"
+  },
+  {
+    "name": "Bohechío",
+    "province": "San Juan"
+  },
+  {
+    "name": "El Llano",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Paraíso",
+    "province": "Barahona"
+  },
+  {
+    "name": "Villa Jaragua",
+    "province": "Bahoruco"
+  },
+  {
+    "name": "Castañuelas",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Fantino",
+    "province": "Sánchez Ramírez"
+  },
+  {
+    "name": "Villa Bisonó (Navarrete)",
+    "province": "Santiago"
+  },
+  {
+    "name": "Guaymate",
+    "province": "La Romana"
+  },
+  {
+    "name": "San Rafael del Yuma",
+    "province": "La Altagracia"
+  },
+  {
+    "name": "Hondo Valle",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Pedro Santana",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Oviedo",
+    "province": "Pedernales"
+  },
+  {
+    "name": "Pepillo Salcedo",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Río San Juan",
+    "province": "María Trinidad Sánchez"
+  },
+  {
+    "name": "Luperón",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Jimaní",
+    "province": "Independencia"
+  },
+  {
+    "name": "La Descubierta",
+    "province": "Independencia"
+  },
+  {
+    "name": "Loma de Cabrera",
+    "province": "Dajabón"
+  },
+  {
+    "name": "Padre Las Casas",
+    "province": "Azua"
+  },
+  {
+    "name": "Pedernales",
+    "province": "Pedernales"
+  },
+  {
+    "name": "Tamayo",
+    "province": "Bahoruco"
+  },
+  {
+    "name": "Tenares",
+    "province": "Hermanas Mirabal"
+  },
+  {
+    "name": "Villa Vásquez",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Cabral",
+    "province": "Barahona"
+  },
+  {
+    "name": "Castillo",
+    "province": "Duarte"
+  },
+  {
+    "name": "El Cercado",
+    "province": "San Juan"
+  },
+  {
+    "name": "Enriquillo",
+    "province": "Barahona"
+  },
+  {
+    "name": "Esperanza",
+    "province": "Valverde"
+  },
+  {
+    "name": "Gaspar Hernández",
+    "province": "Espaillat"
+  },
+  {
+    "name": "Imbert",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Jánico",
+    "province": "Santiago"
+  },
+  {
+    "name": "Monción",
+    "province": "Santiago Rodríguez"
+  },
+  {
+    "name": "Pimentel",
+    "province": "Duarte"
+  },
+  {
+    "name": "Sánchez",
+    "province": "Samaná"
+  },
+  {
+    "name": "Tamboril",
+    "province": "Santiago"
+  },
+  {
+    "name": "Villa Altagracia",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "Yamasá",
+    "province": "Monte Plata"
+  },
+  {
+    "name": "La Romana",
+    "province": "La Romana"
+  },
+  {
+    "name": "Cevicos",
+    "province": "Sánchez Ramírez"
+  },
+  {
+    "name": "Ramón Santana",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Duvergé",
+    "province": "Independencia"
+  },
+  {
+    "name": "Restauración",
+    "province": "Dajabón"
+  },
+  {
+    "name": "Altamira",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Miches",
+    "province": "El Seibo"
+  },
+  {
+    "name": "Comendador",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Mao",
+    "province": "Valverde"
+  },
+  {
+    "name": "Cabrera",
+    "province": "María Trinidad Sánchez"
+  },
+  {
+    "name": "Constanza",
+    "province": "La Vega"
+  },
+  {
+    "name": "Jarabacoa",
+    "province": "La Vega"
+  },
+  {
+    "name": "Guayubín",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Azua",
+    "province": "Azua"
+  },
+  {
+    "name": "Baní",
+    "province": "Peravia"
+  },
+  {
+    "name": "Bánica",
+    "province": "Elías Piña"
+  },
+  {
+    "name": "Barahona",
+    "province": "Barahona"
+  },
+  {
+    "name": "Bayaguana",
+    "province": "Monte Plata"
+  },
+  {
+    "name": "Bonao",
+    "province": "Monseñor Nouel"
+  },
+  {
+    "name": "Cotuí",
+    "province": "Sánchez Ramírez"
+  },
+  {
+    "name": "Dajabón",
+    "province": "Dajabón"
+  },
+  {
+    "name": "El Seibo",
+    "province": "El Seibo"
+  },
+  {
+    "name": "Hato Mayor",
+    "province": "Hato Mayor"
+  },
+  {
+    "name": "Higüey",
+    "province": "La Altagracia"
+  },
+  {
+    "name": "La Vega",
+    "province": "La Vega"
+  },
+  {
+    "name": "Las Matas de Farfán",
+    "province": "San Juan"
+  },
+  {
+    "name": "Los Llanos",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Moca",
+    "province": "Espaillat"
+  },
+  {
+    "name": "Monte Cristi",
+    "province": "Monte Cristi"
+  },
+  {
+    "name": "Monte Plata",
+    "province": "Monte Plata"
+  },
+  {
+    "name": "Neiba",
+    "province": "Bahoruco"
+  },
+  {
+    "name": "Puerto Plata",
+    "province": "Puerto Plata"
+  },
+  {
+    "name": "Sabana de la Mar",
+    "province": "Hato Mayor"
+  },
+  {
+    "name": "Sabana Grande de Boyá",
+    "province": "Monte Plata"
+  },
+  {
+    "name": "Sabaneta",
+    "province": "Santiago Rodríguez"
+  },
+  {
+    "name": "Salcedo",
+    "province": "Hermanas Mirabal"
+  },
+  {
+    "name": "Samaná",
+    "province": "Samaná"
+  },
+  {
+    "name": "San Cristóbal",
+    "province": "San Cristóbal"
+  },
+  {
+    "name": "San Francisco de Macorís",
+    "province": "Duarte"
+  },
+  {
+    "name": "San José de las Matas",
+    "province": "Santiago"
+  },
+  {
+    "name": "San José de Ocoa",
+    "province": "San José de Ocoa"
+  },
+  {
+    "name": "San Juan",
+    "province": "San Juan"
+  },
+  {
+    "name": "San Pedro de Macorís",
+    "province": "San Pedro de Macorís"
+  },
+  {
+    "name": "Santiago de los Caballeros",
+    "province": "Santiago"
+  },
+  {
+    "name": "Santo Domingo",
+    "province": "Distrito Nacional"
+  },
+  {
+    "name": "Villa Riva",
+    "province": "Duarte"
+  },
+  {
+    "name": "Villa Tapia",
+    "province": "Hermanas Mirabal"
+  },
+  {
+    "name": "Punta Cana",
+    "province": "La Altagracia"
+  }
+]
